@@ -1,5 +1,4 @@
 import scrapy
-import re
 from ..items import PbaTeamItem
 from ..items import PbaPlayersItem
 
